@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/Tam.Solution/Tam/bin/Debug/netcoreapp1.1/Tam.deps.json
+/Users/Guest/Desktop/Tam.Solution/Tam/bin/Debug/netcoreapp1.1/Tam.runtimeconfig.json
+/Users/Guest/Desktop/Tam.Solution/Tam/bin/Debug/netcoreapp1.1/Tam.runtimeconfig.dev.json
+/Users/Guest/Desktop/Tam.Solution/Tam/bin/Debug/netcoreapp1.1/Tam.dll
+/Users/Guest/Desktop/Tam.Solution/Tam/bin/Debug/netcoreapp1.1/Tam.pdb
+/Users/Guest/Desktop/Tam.Solution/Tam/obj/Debug/netcoreapp1.1/Tam.AssemblyInfo.cs
+/Users/Guest/Desktop/Tam.Solution/Tam/obj/Debug/netcoreapp1.1/Tam.dll
+/Users/Guest/Desktop/Tam.Solution/Tam/obj/Debug/netcoreapp1.1/Tam.pdb

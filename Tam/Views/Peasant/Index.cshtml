@@ -1,0 +1,8 @@
+<h1>Your Peasant Farm</h1>
+<ul>
+  @foreach(var peasant in Model)
+  {
+    <li><a href='peasants/@peasant.GetId()'>@peasant.GetId()</a></li>
+  }
+</ul>
+<p><a href="/peasants/new">Add a new Peasant</a></p>
